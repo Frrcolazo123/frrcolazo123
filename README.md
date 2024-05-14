@@ -1,6 +1,4 @@
-### Hola, soy Fernando Colazo 👋
-
-## Data Analyst
+### Data Analyst 👋
 ¡Hola! Soy un Data Analyst con experiencia en marketing y finanzas, lo que me ha permitido liderar equipos, analizar datos y crear reportes y dashboards interactivos para la toma de decisiones efectivas.
 
 ## Experiencia
