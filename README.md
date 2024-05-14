@@ -1,4 +1,4 @@
-### Hola, mi nombre es Fernando Colazo
+# Hola, mi nombre es Fernando Colazo.
 ### ¿Qué soy? 👋
 Soy un Data Analyst con experiencia en marketing y finanzas, lo que me ha permitido liderar equipos, analizar datos y crear reportes y dashboards interactivos para la toma de decisiones efectivas.
 
@@ -6,7 +6,10 @@ Soy un Data Analyst con experiencia en marketing y finanzas, lo que me ha permit
 Tengo habilidades en la limpieza, estructuración y visualización de datos. Como así también en la construccion de reportes y dashboard interactivos para la posterior roma de decisiones.
 
 ## ¿Qué habilidades tengo?🏹
-#### Excel SQL, Power BI y Python para generar informes y análisis de métricas.
+#### Excel 
+#### SQL 
+#### Power BI y Tableau
+#### Python y R
 
 ## ¿En qué me destaco? 💻
 Resolución de Problemas: Me apasiona abordar desafíos complejos y encontrar soluciones efectivas mediante el análisis de datos.
