@@ -20,6 +20,6 @@ Curiosidad: Mantengo una actitud curiosa y proactiva para explorar nuevas técni
 Inglés: Mi nivel de inglés es intermedio, lo que me permite comunicarme y trabajar en entornos internacionales.
 
 ## ¿Cómo puedes contactarme? 📩
-Si deseas contactarme, puedes encontrarme en LinkedIn como Fernando Colazo o enviarme un correo electrónico: frrcolazo123@gmail.com
+Si deseas contactarme, puedes encontrarme en LinkedIn https://www.linkedin.com/in/fernando-colazo/ o enviarme un correo electrónico: frrcolazo123@gmail.com
 
 ¡Gracias por visitar mi repositorio!
